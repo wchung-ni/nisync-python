@@ -1,11 +1,11 @@
-# Contributing to \<reponame\> 
+# Contributing to nisync-python 
 
-Contributions to \<reponame\> are welcome from all!
+Contributions to nisync-python are welcome from all!
 
-\<reponame\> is managed via [git](https://git-scm.com), with the canonical upstream
-repository hosted on [GitHub](https://github.com/ni/<reponame>/).
+nisync-python is managed via [git](https://git-scm.com), with the canonical upstream
+repository hosted on [GitHub](https://github.com/ni/nisync-python/).
 
-\<reponame\> follows a pull-request model for development.  If you wish to
+nisync-python follows a pull-request model for development.  If you wish to
 contribute, you will need to create a GitHub account, fork this project, push a
 branch with your changes to your project, and then submit a pull request.
 
@@ -57,5 +57,5 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
 
 (taken from [developercertificate.org](https://developercertificate.org/))
 
-See [LICENSE](https://github.com/ni/<reponame>/blob/main/LICENSE)
-for details about how \<reponame\> is licensed.
+See [LICENSE](https://github.com/ni/nisync-python/blob/main/LICENSE)
+for details about how nisync-python is licensed.

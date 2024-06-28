@@ -52,6 +52,17 @@ root of the distribution:
 $ poetry run pytest
 ```
 
+Additionally, to ensure code quality and consistency with the project's coding standards, you should run the following commands:
+
+- To check your code for style issues, run:
+  ```sh
+  $ poetry run ni-python-styleguide lint
+  ```
+- To automatically fix many of the style issues detected, run:
+  ```sh
+  $ poetry run ni-python-styleguide fix
+  ```
+
 # Developer Certificate of Origin (DCO)
 
    Developer's Certificate of Origin 1.1

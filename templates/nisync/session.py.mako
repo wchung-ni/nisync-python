@@ -649,6 +649,11 @@ class Session(_SessionBase):
     @property
     def resource_name(self):
         return self._resource_name
+    
+    @property
+    def session_handle(self):
+        return self._vi
+
 <%
     class_hierarchy = [
         ('TimeReference',           'object'),

@@ -1,6 +1,6 @@
 """Configure pytest for testing with nisync devices.
 
-This module includes fixtures for setting up resources 
+This module includes fixtures for setting up resources
 and command line options for specifying resource names needed by test_session.py.
 """
 
